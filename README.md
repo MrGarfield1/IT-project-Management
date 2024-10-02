@@ -8,7 +8,7 @@
 * [2.2](https://github.com/MrGarfield1/IT-project-Management/blob/main/2_2.pdf)
 * [3.1](https://github.com/MrGarfield1/IT-project-Management/blob/main/3_1.md)
 * [3.2](https://github.com/MrGarfield1/IT-project-Management/blob/main/3_2.md)
-* [3.3](https://github.com/MrGarfield1/IT-project-Management/blob/main/3_3.md)
+* [3.3](https://github.com/MrGarfield1/IT-project-Management/blob/main/3_3.png)
 * [4.1]()
 
 
